@@ -1,0 +1,10 @@
+./exemplos/g1-out4.txt
+./exemplos/g1-out6.txt
+./exemplos/g1-out8.txt
+./exemplos/g2-out8.txt
+./exemplos/g3-out0.txt
+./exemplos/g3-out1.txt
+./exemplos/out-10-30-4.txt
+./exemplos/out-10-70-7.txt
+./exemplos/out-100-1000-42.txt
+./exemplos/out-1000-10000-153.txt

@@ -1,0 +1,10 @@
+./out/g1-out4.txt
+./out/g1-out6.txt
+./out/g1-out8.txt
+./out/g2-out8.txt
+./out/g3-out0.txt
+./out/g3-out1.txt
+./out/g-10-30-out4.txt
+./out/g-10-70-out7.txt
+./out/g-100-1000-out42.txt
+./out/g-1000-10000-out153.txt
